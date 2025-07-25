@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>مواتر المطيري</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #111;
+      color: white;
+      text-align: center;
+      padding: 30px;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+      color: #ffcc00;
+    }
+    p {
+      font-size: 1.4em;
+      margin-bottom: 30px;
+      line-height: 1.6;
+    }
+    .gallery img {
+      width: 250px;
+      margin: 10px;
+      border-radius: 10px;
+    }
+    .contact a {
+      color: #ffcc00;
+      text-decoration: none;
+      margin: 0 10px;
+      font-size: 1.1em;
+    }
+  </style>
+</head>
+<body>
+  <h1>حي الله من زارنا في مواتر المطيري</h1>
+  <p>الجمس ما هو مجرد موتر.. الجمس هيبة، عز، ورفعة روس!<br>
+  نختار لك النظيف، ونقدم لك الموتر اللي يشرّفك بكل ميدان.<br>
+  اللي يسوق الجمس، يعرف إنه يقود سطور من الفخر والمجد.</p>
+
+  <div class="gallery">
+    <img src="1F9EF5D9-0AEC-4429-B70A-73A0BAFC1C71.jpeg" alt="موتر GMC">
+<img src="60454AC2-3C31-4DCD-A4D7-7BBFE5BE3EC6.jpeg" alt="موتر GMC">
+<img src="ACEEF4C6-5680-4786-A16C-446BF975657F.jpeg" alt="موتر GMC">
+<img src="80108128-7F0F-4558-BF39-F9D3BD1AA084.jpeg" alt="موتر GMC">
+<img src="037FE7EA-B5A8-4680-931D-5056F7E2B643.jpeg" alt="موتر GMC">
+  </div>
+
+  <p>تابعنا أو تواصل معنا مباشرة:</p>
+  <div class="contact">
+    <a href="https://wa.me/966XXXXXXXXX">واتساب</a> |
+    <a href="https://instagram.com/b_13pz">إنستغرام</a> |
+    <a href="https://snapchat.com/add/X_rt26">سناب شات</a>
+  </div>
+</body>
+</html>
